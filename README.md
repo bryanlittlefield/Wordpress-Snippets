@@ -5,7 +5,7 @@ A collection of usefull snippets
 
 
 
-###Combining Post queries 
+###Combining Two Post Queries 
 ```php
 <?php
 $occasion_args = array(
